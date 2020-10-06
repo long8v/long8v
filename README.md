@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there 👋
 
 <!--
 **long8v/long8v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 [![github stats](https://github-readme-stats.vercel.app/api?username=long8v&show_icons=true&hide_border=False)](https://github.com/long8v)
