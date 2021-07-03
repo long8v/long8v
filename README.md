@@ -4,10 +4,10 @@
 </div>
 
 
-💻 intereted in nlp<br>
+💻 intereted in nlp
 
-🔥 studying torch<br>
+🔥 studying torch
 
-🤔 finding task desiring to solve<br>
+🤔 finding task desiring to solve
 
 🌎 want to be digital nomad someday
