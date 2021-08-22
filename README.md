@@ -5,6 +5,5 @@
 
 
 💻 intereted in nlp<br>
-🔥 studying torch<br>
 🤔 finding task desiring to solve<br>
 🌎 want to be digital nomad someday
