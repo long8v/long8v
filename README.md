@@ -4,6 +4,6 @@
 </div>
 
 
-💻 intereted in nlp<br>
+💻 intereted in NLP<br>
 🤔 finding task desiring to solve<br>
 🌎 want to be digital nomad someday
