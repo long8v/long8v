@@ -3,6 +3,4 @@
 </div>
 
 
-💻 intereted in NLP<br>
-🤔 finding task desiring to solve<br>
-🌎 want to be digital nomad someday
+느긋하게 건강하게
