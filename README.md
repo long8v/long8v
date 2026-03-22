@@ -1,2 +1,2 @@
 # 🍔 
-[google scholar](https://scholar.google.com/citations?user=dz6ggzwAAAAJ&hl=ko&authuser=1)
+[my page](https://long8v.github.io/PTIR/)
